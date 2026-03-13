@@ -1,2 +1,26 @@
-# recommendation-python
-Recommendation Python - Built with ❤️
+# Recommendation Python
+
+This repository contains a recommendation system built with Python.
+
+## Overview
+Explore a simple recommendation engine that utilizes collaborative filtering techniques.
+
+## Features
+- Collaborative filtering implementation
+- Example datasets
+
+## Tech Stack
+- Python
+- NumPy
+- Pandas
+
+## Usage
+To run the recommendation system, install the required libraries:
+
+```
+pip install -r requirements.txt
+```
+
+## Future Plans
+- Enhance recommendation algorithms
+- Integrate with web applications
