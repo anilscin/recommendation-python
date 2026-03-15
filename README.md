@@ -1,9 +1,7 @@
 # Recommendation Python
 
-This repository contains a recommendation system built with Python.
-
 ## Overview
-Explore a simple recommendation engine that utilizes collaborative filtering techniques.
+This repository contains a recommendation system built with Python.
 
 ## Features
 - Collaborative filtering implementation
